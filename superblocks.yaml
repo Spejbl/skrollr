@@ -1,5 +1,5 @@
 version: 1fdfdfd
-jobs:
+jobs:fdsfsdf
   build:
     image: node
     script:
