@@ -1,6 +1,5 @@
-version: 1fdfdfd
+version: VERSION PATATA
 jobs:
-  build:
     image: node
     script:
     - npm i
