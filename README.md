@@ -1,7 +1,7 @@
 [![Build Status](https://secure.travis-ci.org/Prinzhorn/skrollr.png)](http://travis-ci.org/Prinzhorn/skrollr)
 asd
 Please note:
-============
+============sa
 
 **skrollr hasn't been under active development since about September 2014** (check out the contributions graphs on https://github.com/Prinzhorn/skrollr/graphs/contributors) and I don't have any plans for doing major changes to it. Please consider this before using skrollr in production as problems with new browser versions, especially on mobile, will most definitely surface. To be honest, mobile support always sucked (because mobile browsers are hard) and you shouldn't compromise UX for some fancy UI effects. Ever.
 
@@ -14,7 +14,7 @@ Designer friendly. No JavaScript skills needed. Just plain CSS and HTML.
 
 _Actually, skrollr is much more than "just" **parallax scrolling**. It's a full-fledged scrolling animation library. In fact, you can use it and still have no parallax scrolling at all. But I wanted to sound hip and use some buzz-words. By the way, skrollr leverages HTML5 and CSS3 ;-)_
 
-Resources
+Resourcessd
 =====
 
 Plugins
